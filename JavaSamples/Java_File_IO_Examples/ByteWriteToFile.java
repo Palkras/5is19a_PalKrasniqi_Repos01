@@ -1,6 +1,4 @@
 package com.java2novice.files;
-
-#Testtest
  
 import java.io.File;
 import java.io.FileOutputStream;
